@@ -18,3 +18,82 @@ https://lb2-e2-19.pluscdn.pl/ch/1502600/308/dash/20a18c30/live.mpd
 http://cdn-s-lb2.pluscdn.pl/lv/1517830/349/dash/81ec4c32/live.mpd
 #EXTINF:0,Polsat News Polityka FHD
 https://lb2-e3-20.pluscdn.pl/lv/1511888/322/dash/52a9b70b/live.mpd
+
+#EXTINF:0,TVP Info
+plugin://plugin.video.TVP_VOD?mode=playLiveTV&chCode=INF&chID=
+#EXTINF:0,TVP Kultura
+plugin://plugin.video.TVP_VOD?mode=playLiveTV&chCode=T5D&chID=
+#EXTINF:0,TVP Historia
+plugin://plugin.video.TVP_VOD?mode=playLiveTV&chCode=TKH&chID=
+#EXTINF:0,TVP ABC
+plugin://plugin.video.TVP_VOD?mode=playLiveTV&chCode=ABC&chID=
+#EXTINF:0,TVP Sport
+plugin://plugin.video.TVP_VOD?mode=playLiveTV&chCode=KSP&chID=
+#EXTINF:0,TVP World
+plugin://plugin.video.TVP_VOD?mode=playLiveTV&chCode=PIE&chID=
+#EXTINF:0,TV Bielsat
+plugin://plugin.video.TVP_VOD?mode=playLiveTV&chCode=TVBI&chID=
+#EXTINF:0,TVP Wilno
+plugin://plugin.video.TVP_VOD?mode=playLiveTV&chCode=WILNO&chID=
+#EXTINF:0,TVP Kobieta
+plugin://plugin.video.TVP_VOD?mode=playLiveTV&chCode=KBT&chID=
+#EXTINF:0,TVP Dokument
+plugin://plugin.video.TVP_VOD?mode=playLiveTV&chCode=DOK&chID=
+#EXTINF:0,TVP NAUKA
+plugin://plugin.video.TVP_VOD?mode=playLiveTV&chCode=NK&chID=
+#EXTINF:0,TVP Polonia
+plugin://plugin.video.TVP_VOD?mode=playLiveTV&chCode=T4D&chID=
+#EXTINF:0,TVP Rozrywka
+plugin://plugin.video.TVP_VOD?mode=playLiveTV&chCode=TRO&chID=
+#EXTINF:0,Historia2
+plugin://plugin.video.TVP_VOD?mode=playLiveTV&chCode=H2&chID=
+#EXTINF:0,ALFA TVP
+plugin://plugin.video.TVP_VOD?mode=playLiveTV&chCode=ALFA&chID=
+#EXTINF:0,ABC 2
+plugin://plugin.video.TVP_VOD?mode=playLiveTV&chCode=DMPR&chID=
+#EXTINF:0,Kultura2
+plugin://plugin.video.TVP_VOD?mode=playLiveTV&chCode=KUL2&chID=
+#EXTINF:0,TVP3 Białystok
+plugin://plugin.video.TVP_VOD?mode=playLiveTV&chCode=XCC&chID=
+#EXTINF:0,TVP3 Bydgoszcz
+plugin://plugin.video.TVP_VOD?mode=playLiveTV&chCode=XBB&chID=
+#EXTINF:0,TVP3 Gdańsk
+plugin://plugin.video.TVP_VOD?mode=playLiveTV&chCode=XGG&chID=
+#EXTINF:0,TVP3 Gorzów Wlkp.
+plugin://plugin.video.TVP_VOD?mode=playLiveTV&chCode=XFF&chID=
+#EXTINF:0,TVP3 Katowice
+plugin://plugin.video.TVP_VOD?mode=playLiveTV&chCode=XTT&chID=
+#EXTINF:0,TVP3 Kielce
+plugin://plugin.video.TVP_VOD?mode=playLiveTV&chCode=XEE&chID=
+#EXTINF:0,TVP3 Kraków
+plugin://plugin.video.TVP_VOD?mode=playLiveTV&chCode=XKK&chID=
+#EXTINF:0,TVP3 Łódź
+plugin://plugin.video.TVP_VOD?mode=playLiveTV&chCode=XDD&chID=
+#EXTINF:0,TVP3 Lublin
+plugin://plugin.video.TVP_VOD?mode=playLiveTV&chCode=XLL&chID=
+#EXTINF:0,TVP3 Olsztyn
+plugin://plugin.video.TVP_VOD?mode=playLiveTV&chCode=XHH&chID=
+#EXTINF:0,TVP3 Opole
+plugin://plugin.video.TVP_VOD?mode=playLiveTV&chCode=XJJ&chID=
+#EXTINF:0,TVP3 Poznań
+plugin://plugin.video.TVP_VOD?mode=playLiveTV&chCode=XPP&chID=
+#EXTINF:0,TVP3 Rzeszów
+plugin://plugin.video.TVP_VOD?mode=playLiveTV&chCode=XRR&chID=
+#EXTINF:0,TVP3 Szczecin
+plugin://plugin.video.TVP_VOD?mode=playLiveTV&chCode=XSS&chID=
+#EXTINF:0,TVP3 Warszawa
+plugin://plugin.video.TVP_VOD?mode=playLiveTV&chCode=XAA&chID=
+#EXTINF:0,TVP3 Wrocław
+plugin://plugin.video.TVP_VOD?mode=playLiveTV&chCode=XWW&chID=
+#EXTINF:0,TVP Parlament KOMISJA 1
+plugin://plugin.video.TVP_VOD?mode=playLiveTV&chCode=&chID=aid_75458936
+#EXTINF:0,TVP Parlament KOMISJA 2
+plugin://plugin.video.TVP_VOD?mode=playLiveTV&chCode=&chID=aid_75458957
+#EXTINF:0,TVP Seriale
+plugin://plugin.video.TVP_VOD?mode=playLiveTV&chCode=TRS&chID=aid_72827372
+#EXTINF:0,TVP HD
+plugin://plugin.video.TVP_VOD?mode=playLiveTV&chCode=KHSH&chID=aid_72827367
+#EXTINF:0,TVP PARLAMENT SEJM
+plugin://plugin.video.TVP_VOD?mode=playLiveTV&chCode=PARSEJM&chID=vc_PARSEJM
+#EXTINF:0,TVP PARLAMENT SENAT
+plugin://plugin.video.TVP_VOD?mode=playLiveTV&chCode=PARSENAT&chID=vc_PARSENAT
