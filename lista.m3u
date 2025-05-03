@@ -4,6 +4,29 @@ plugin://plugin.video.TVP_VOD?mode=playLiveTV&chCode=T1D&chID=
 #EXTINF:0,TVP 2 FHD
 plugin://plugin.video.TVP_VOD?mode=playLiveTV&chCode=T2D&chID=
 
+#EXTINF:0,TVP 3
+plugin://plugin.video.megogo?mode=playSource&cid=21094476
+#EXTINF:0,Stopklatka.tv HD
+plugin://plugin.video.megogo?mode=playSource&cid=20683846
+#EXTINF:0,Zoom TV HD
+plugin://plugin.video.megogo?mode=playSource&cid=20683856
+#EXTINF:0,TV Puls 2 HD
+plugin://plugin.video.megogo?mode=playSource&cid=20630576
+#EXTINF:0,WP HD
+plugin://plugin.video.megogo?mode=playSource&cid=20891427
+#EXTINF:0,STARS.TV HD
+plugin://plugin.video.megogo?mode=playSource&cid=20704326
+#EXTINF:0,Sportowa.TV
+plugin://plugin.video.megogo?mode=playSource&cid=22230086
+#EXTINF:0,Music Box Polska
+plugin://plugin.video.megogo?mode=playSource&cid=20563656
+#EXTINF:0,TVS
+plugin://plugin.video.megogo?mode=playSource&cid=20768696
+#EXTINF:0,Telewizja Biznesowa
+plugin://plugin.video.megogo?mode=playSource&cid=23638417
+#EXTINF:0,CTV - Telewizja Dla Ciebie
+plugin://plugin.video.megogo?mode=playSource&cid=23349366
+
 #EXTM3U
 #EXTINF:0,TVN HD
 plugin://plugin.video.vod_pl?mode=playT&cid=1908473
