@@ -85,15 +85,7 @@ plugin://plugin.video.TVP_VOD?mode=playLiveTV&chCode=XSS&chID=
 plugin://plugin.video.TVP_VOD?mode=playLiveTV&chCode=XAA&chID=
 #EXTINF:0,TVP3 Wrocław
 plugin://plugin.video.TVP_VOD?mode=playLiveTV&chCode=XWW&chID=
-#EXTINF:0,TVP Parlament KOMISJA 1
-plugin://plugin.video.TVP_VOD?mode=playLiveTV&chCode=&chID=aid_75458936
-#EXTINF:0,TVP Parlament KOMISJA 2
-plugin://plugin.video.TVP_VOD?mode=playLiveTV&chCode=&chID=aid_75458957
 #EXTINF:0,TVP Seriale
 plugin://plugin.video.TVP_VOD?mode=playLiveTV&chCode=TRS&chID=aid_72827372
 #EXTINF:0,TVP HD
 plugin://plugin.video.TVP_VOD?mode=playLiveTV&chCode=KHSH&chID=aid_72827367
-#EXTINF:0,TVP PARLAMENT SEJM
-plugin://plugin.video.TVP_VOD?mode=playLiveTV&chCode=PARSEJM&chID=vc_PARSEJM
-#EXTINF:0,TVP PARLAMENT SENAT
-plugin://plugin.video.TVP_VOD?mode=playLiveTV&chCode=PARSENAT&chID=vc_PARSENAT
