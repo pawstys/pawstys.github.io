@@ -9,10 +9,6 @@ plugin://plugin.video.TVP_VOD?mode=playLiveTV&chCode=T2D&chID=
 plugin://plugin.video.vod_pl?mode=playT&cid=1908473
 #EXTINF:0,TVN 7 HD
 plugin://plugin.video.vod_pl?mode=playT&cid=1908474
-#EXTINF:0,TVN24 HD
-plugin://plugin.video.vod_pl?mode=playT&cid=57630
-#EXTINF:0,TVN24 BiS HD
-plugin://plugin.video.vod_pl?mode=playT&cid=57633
 #EXTINF:0,TTV HD
 plugin://plugin.video.vod_pl?mode=playT&cid=1908475
 
