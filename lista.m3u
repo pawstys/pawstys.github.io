@@ -27,6 +27,15 @@ plugin://plugin.video.megogo?mode=playSource&cid=23638417
 #EXTINF:0,CTV - Telewizja Dla Ciebie
 plugin://plugin.video.megogo?mode=playSource&cid=23349366
 
+#EXTINF:0,RMF MAXX
+plugin://plugin.video.megogo?mode=playSource&cid=23086016
+#EXTINF:0,RMF24
+plugin://plugin.video.megogo?mode=playSource&cid=23086036
+#EXTINF:0,RMF FM
+plugin://plugin.video.megogo?mode=playSource&cid=23085976
+#EXTINF:0,RMF Classic
+plugin://plugin.video.megogo?mode=playSource&cid=23086026
+
 #EXTM3U
 #EXTINF:0,TVN HD
 plugin://plugin.video.vod_pl?mode=playT&cid=1908473
