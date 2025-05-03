@@ -27,14 +27,14 @@ plugin://plugin.video.megogo?mode=playSource&cid=23638417
 #EXTINF:0,CTV - Telewizja Dla Ciebie
 plugin://plugin.video.megogo?mode=playSource&cid=23349366
 
-#EXTINF:0,RMF MAXX
-plugin://plugin.video.megogo?mode=playSource&cid=23086016
-#EXTINF:0,RMF24
-plugin://plugin.video.megogo?mode=playSource&cid=23086036
-#EXTINF:0,RMF FM
-plugin://plugin.video.megogo?mode=playSource&cid=23085976
-#EXTINF:0,RMF Classic
-plugin://plugin.video.megogo?mode=playSource&cid=23086026
+#EXTINF:0 radio="true",RMF FM
+http://195.150.20.242:8000/rmf_fm
+#EXTINF:0 radio="true",Radio ZET
+http://zet090-02.cdn.eurozet.pl:8404/
+#EXTINF:0 radio="true",RMF Classic
+http://rmfstream1.interia.pl:8000/rmf_classic
+#EXTINF:0 radio="true",RMF MAXXX
+http://195.150.20.242:8000/rmf_maxxx
 
 #EXTM3U
 #EXTINF:0,TVN HD
