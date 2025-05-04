@@ -6,7 +6,7 @@ plugin://plugin.video.TVP_VOD?mode=playLiveTV&chCode=T2D&chID=
 
 #EXTINF:0,TVP 3
 plugin://plugin.video.megogo?mode=playSource&cid=21094476
-#EXTINF:0,Stopklatka.tv
+#EXTINF:0,Stopklatka TV
 plugin://plugin.video.megogo?mode=playSource&cid=20683846
 #EXTINF:0,Zoom TV
 plugin://plugin.video.megogo?mode=playSource&cid=20683856
@@ -80,9 +80,9 @@ plugin://plugin.video.TVP_VOD?mode=playLiveTV&chCode=TRO&chID=
 plugin://plugin.video.TVP_VOD?mode=playLiveTV&chCode=H2&chID=
 #EXTINF:0,ALFA TVP
 plugin://plugin.video.TVP_VOD?mode=playLiveTV&chCode=ALFA&chID=
-#EXTINF:0,TVP ABC2
+#EXTINF:0,TVP ABC 2
 plugin://plugin.video.TVP_VOD?mode=playLiveTV&chCode=DMPR&chID=
-#EXTINF:0,TVP Kultura2
+#EXTINF:0,TVP Kultura 2
 plugin://plugin.video.TVP_VOD?mode=playLiveTV&chCode=KUL2&chID=
 #EXTINF:0,TVP Seriale
 plugin://plugin.video.TVP_VOD?mode=playLiveTV&chCode=TRS&chID=aid_72827372
