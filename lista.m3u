@@ -4,7 +4,7 @@ plugin://plugin.video.TVP_VOD?mode=playLiveTV&chCode=T1D&chID=
 #EXTINF:0,TVP 2 FHD
 plugin://plugin.video.TVP_VOD?mode=playLiveTV&chCode=T2D&chID=
 
-#EXTINF:0,TVP 3
+#EXTINF:0,TVP 3 HD
 plugin://plugin.video.megogo?mode=playSource&cid=21094476
 #EXTINF:0,Stopklatka.tv HD
 plugin://plugin.video.megogo?mode=playSource&cid=20683846
@@ -34,6 +34,10 @@ plugin://plugin.video.vod_pl?mode=playT&cid=1908473
 plugin://plugin.video.vod_pl?mode=playT&cid=1908474
 #EXTINF:0,TTV HD
 plugin://plugin.video.vod_pl?mode=playT&cid=1908475
+#EXTINF:0,TV Puls
+plugin://plugin.video.vod_pl?mode=playT&cid=9353728
+#EXTINF:0,Metro
+plugin://plugin.video.vod_pl?mode=playT&cid=2930752
 
 #EXTINF:0,Polsat FHD
 https://lb2-e2-19.pluscdn.pl/ch/1502600/308/dash/20a18c30/live.mpd
@@ -80,6 +84,42 @@ plugin://plugin.video.TVP_VOD?mode=playLiveTV&chCode=ALFA&chID=
 plugin://plugin.video.TVP_VOD?mode=playLiveTV&chCode=DMPR&chID=
 #EXTINF:0,Kultura2
 plugin://plugin.video.TVP_VOD?mode=playLiveTV&chCode=KUL2&chID=
+#EXTINF:0,TVP Seriale
+plugin://plugin.video.TVP_VOD?mode=playLiveTV&chCode=TRS&chID=aid_72827372
+#EXTINF:0,TVP HD
+plugin://plugin.video.TVP_VOD?mode=playLiveTV&chCode=KHSH&chID=aid_72827367
+
+#EXTINF:0,4FUN TV
+https://stream.4fun.tv:8888/hls/4f.m3u8
+#EXTINF:0,TV Trwam
+https://live-ch1.trwam.cf.insyscd.net/out/v1/b99041a282774d4a8fe84a54243af5de/trwamtv-live-ch1.mpd
+#EXTINF:0,Dla Ciebie TV
+http://94.246.128.53:1935/tv/_definst_/dlaCiebieTv/playlist.m3u8
+#EXTINF:0,Music plus
+http://listatv.pl/online.php?article_id=149
+#EXTINF:0,TV Jasło
+https://vcdn01.sesja.pl/live_tvjaslo/live_tvjaslo.stream/chunklist_w380259589.m3u8?conn_id=271739581532068795
+#EXTINF:0,TV Regionalna
+https://tvreg.klemit.net/regionalna/stream/index.m3u8
+#EXTINF:0,Telewizja Pogranicze
+https://stream.elzappero.net/tvglubczyce.m3u8
+#EXTINF:0,Telewizja Toruń
+http://217.173.176.107:1935/live/ngrp:tvk.stream_mobile/chunks.m3u8
+#EXTINF:0,TV Kujawy
+http://stream.tvkujawy.pl:8080/live/broadcast.m3u8
+#EXTINF:0,TVT Zgorzelec
+http://gargoyle.tomkow.pl/hls/tvt.m3u8
+#EXTINF:0,TVT PL
+https://live.streamtvt.pl/LiveAppStreamTVT/streams/853271271313930867905724.m3u8
+#EXTINF:0,TV Imperium
+https://91-193-208-10.eimperium.pl/TVIMPERIUM/index.m3u8
+#EXTINF:0,Toya
+https://tvtoya.pl/player/live
+#EXTINF:0,Sfera TV
+https://stream.sferatv.pl/sferatvlive/live.m3u8
+#EXTINF:0,Truso TV
+https://stream.truso.tv/elblag/myStream_aac/chunklist_w924865871.m3u8
+
 #EXTINF:0,TVP3 Białystok
 plugin://plugin.video.TVP_VOD?mode=playLiveTV&chCode=XCC&chID=
 #EXTINF:0,TVP3 Bydgoszcz
@@ -112,15 +152,51 @@ plugin://plugin.video.TVP_VOD?mode=playLiveTV&chCode=XSS&chID=
 plugin://plugin.video.TVP_VOD?mode=playLiveTV&chCode=XAA&chID=
 #EXTINF:0,TVP3 Wrocław
 plugin://plugin.video.TVP_VOD?mode=playLiveTV&chCode=XWW&chID=
-#EXTINF:0,TVP Seriale
-plugin://plugin.video.TVP_VOD?mode=playLiveTV&chCode=TRS&chID=aid_72827372
-#EXTINF:0,TVP HD
-plugin://plugin.video.TVP_VOD?mode=playLiveTV&chCode=KHSH&chID=aid_72827367
 
-#EXTINF:0,4FUN TV
-https://stream.4fun.tv:8888/hls/4f.m3u8
-#EXTINF:0,TV Trwam
-https://live-ch1.trwam.cf.insyscd.net/out/v1/b99041a282774d4a8fe84a54243af5de/trwamtv-live-ch1.mpd
+#EXTINF:0,TVN Rewolucje w Kuchni Online
+plugin://plugin.video.vod_pl?mode=playT&cid=8759890
+#EXTINF:0,TVN Momenty Prawdy Online
+plugin://plugin.video.vod_pl?mode=playT&cid=8759880
+#EXTINF:0,TVN Brzydula Online
+plugin://plugin.video.vod_pl?mode=playT&cid=11500386
+#EXTINF:0,TVN Mam Talent Online
+plugin://plugin.video.vod_pl?mode=playT&cid=11500387
+#EXTINF:0,TVN Kryminalnie Online
+plugin://plugin.video.vod_pl?mode=playT&cid=8759884
+#EXTINF:0,TVN Czas na Ślub Online
+plugin://plugin.video.vod_pl?mode=playT&cid=10195811
+#EXTINF:0,TVN Milionerzy Online
+plugin://plugin.video.vod_pl?mode=playT&cid=9083862
+#EXTINF:0,TVN Kulinarne Podróże Online
+plugin://plugin.video.vod_pl?mode=playT&cid=10195812
+#EXTINF:0,TVN Kultowe Seriale Online
+plugin://plugin.video.vod_pl?mode=playT&cid=8759882
+#EXTINF:0,TVN Patrol Online
+plugin://plugin.video.vod_pl?mode=playT&cid=10195810
+#EXTINF:0,TVN Rajska Miłość Online
+plugin://plugin.video.vod_pl?mode=playT&cid=8759881
+#EXTINF:0,TVN Telenowele Online
+plugin://plugin.video.vod_pl?mode=playT&cid=8759887
+#EXTINF:0,TVN Pora na Show Online
+plugin://plugin.video.vod_pl?mode=playT&cid=9474311
+#EXTINF:0,TVN Życie Jak w Bajce Online
+plugin://plugin.video.vod_pl?mode=playT&cid=8759891
+#EXTINF:0,TVN Talk Show Online
+plugin://plugin.video.vod_pl?mode=playT&cid=8759886
+#EXTINF:0,TVN Szpitalne Historie Online
+plugin://plugin.video.vod_pl?mode=playT&cid=8759892
+#EXTINF:0,TVN Szkoła Życia Online
+plugin://plugin.video.vod_pl?mode=playT&cid=8759893
+#EXTINF:0,TVN Seriale o Kobietach Online
+plugin://plugin.video.vod_pl?mode=playT&cid=8759888
+#EXTINF:0,TVN W Domu Online
+plugin://plugin.video.vod_pl?mode=playT&cid=8759889
+#EXTINF:0,TVN Moto Online
+plugin://plugin.video.vod_pl?mode=playT&cid=8759883
+#EXTINF:0,TVN Usterka Online
+plugin://plugin.video.vod_pl?mode=playT&cid=8759885
+#EXTINF:0,TVN Prawo i Życie Online
+plugin://plugin.video.vod_pl?mode=playT&cid=8759879
 
 #EXTINF:0 radio="true",Jedynka	
 http://mp3.polskieradio.pl:8900/
