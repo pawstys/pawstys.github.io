@@ -1,20 +1,20 @@
 #EXTM3U
-#EXTINF:0,TVP 1 FHD
+#EXTINF:0,TVP 1
 plugin://plugin.video.TVP_VOD?mode=playLiveTV&chCode=T1D&chID=
-#EXTINF:0,TVP 2 FHD
+#EXTINF:0,TVP 2
 plugin://plugin.video.TVP_VOD?mode=playLiveTV&chCode=T2D&chID=
 
-#EXTINF:0,TVP 3 HD
+#EXTINF:0,TVP 3
 plugin://plugin.video.megogo?mode=playSource&cid=21094476
-#EXTINF:0,Stopklatka.tv HD
+#EXTINF:0,Stopklatka.tv
 plugin://plugin.video.megogo?mode=playSource&cid=20683846
-#EXTINF:0,Zoom TV HD
+#EXTINF:0,Zoom TV
 plugin://plugin.video.megogo?mode=playSource&cid=20683856
-#EXTINF:0,TV Puls 2 HD
+#EXTINF:0,TV Puls 2
 plugin://plugin.video.megogo?mode=playSource&cid=20630576
-#EXTINF:0,WP HD
+#EXTINF:0,WP
 plugin://plugin.video.megogo?mode=playSource&cid=20891427
-#EXTINF:0,STARS.TV HD
+#EXTINF:0,STARS.TV
 plugin://plugin.video.megogo?mode=playSource&cid=20704326
 #EXTINF:0,Sportowa.TV
 plugin://plugin.video.megogo?mode=playSource&cid=22230086
@@ -28,26 +28,26 @@ plugin://plugin.video.megogo?mode=playSource&cid=23638417
 plugin://plugin.video.megogo?mode=playSource&cid=23349366
 
 #EXTM3U
-#EXTINF:0,TVN HD
+#EXTINF:0,TVN
 plugin://plugin.video.vod_pl?mode=playT&cid=1908473
-#EXTINF:0,TVN 7 HD
+#EXTINF:0,TVN 7
 plugin://plugin.video.vod_pl?mode=playT&cid=1908474
-#EXTINF:0,TTV HD
+#EXTINF:0,TTV
 plugin://plugin.video.vod_pl?mode=playT&cid=1908475
 #EXTINF:0,TV Puls
 plugin://plugin.video.vod_pl?mode=playT&cid=9353728
 #EXTINF:0,Metro
 plugin://plugin.video.vod_pl?mode=playT&cid=2930752
 
-#EXTINF:0,Polsat FHD
+#EXTINF:0,Polsat
 https://lb2-e2-19.pluscdn.pl/ch/1502600/308/dash/20a18c30/live.mpd
-#EXTINF:0,Polsat News HD
+#EXTINF:0,Polsat News
 http://cdn-s-lb2.pluscdn.pl/lv/1517830/349/dash/81ec4c32/live.mpd
-#EXTINF:0,Polsat News Polityka FHD
+#EXTINF:0,Polsat News Polityka
 https://lb2-e3-20.pluscdn.pl/lv/1511888/322/dash/52a9b70b/live.mpd
-#EXTINF:0,TV4 FHD
+#EXTINF:0,TV4
 https://lb2-e2-32.pluscdn.pl/ch/1502601/309/dash/e25c2c93/live.mpd
-#EXTINF:0,TV Okazje FHD
+#EXTINF:0,TV Okazje
 https://lb2-e3-20.pluscdn.pl/ch/1523532/366/dash/2cf383bb/live.mpd
 
 #EXTINF:0,TVP Info
@@ -70,19 +70,19 @@ plugin://plugin.video.TVP_VOD?mode=playLiveTV&chCode=WILNO&chID=
 plugin://plugin.video.TVP_VOD?mode=playLiveTV&chCode=KBT&chID=
 #EXTINF:0,TVP Dokument
 plugin://plugin.video.TVP_VOD?mode=playLiveTV&chCode=DOK&chID=
-#EXTINF:0,TVP NAUKA
+#EXTINF:0,TVP Nauka
 plugin://plugin.video.TVP_VOD?mode=playLiveTV&chCode=NK&chID=
 #EXTINF:0,TVP Polonia
 plugin://plugin.video.TVP_VOD?mode=playLiveTV&chCode=T4D&chID=
 #EXTINF:0,TVP Rozrywka
 plugin://plugin.video.TVP_VOD?mode=playLiveTV&chCode=TRO&chID=
-#EXTINF:0,Historia2
+#EXTINF:0,TVP Historia2
 plugin://plugin.video.TVP_VOD?mode=playLiveTV&chCode=H2&chID=
 #EXTINF:0,ALFA TVP
 plugin://plugin.video.TVP_VOD?mode=playLiveTV&chCode=ALFA&chID=
-#EXTINF:0,ABC 2
+#EXTINF:0,TVP ABC2
 plugin://plugin.video.TVP_VOD?mode=playLiveTV&chCode=DMPR&chID=
-#EXTINF:0,Kultura2
+#EXTINF:0,TVP Kultura2
 plugin://plugin.video.TVP_VOD?mode=playLiveTV&chCode=KUL2&chID=
 #EXTINF:0,TVP Seriale
 plugin://plugin.video.TVP_VOD?mode=playLiveTV&chCode=TRS&chID=aid_72827372
@@ -93,6 +93,24 @@ plugin://plugin.video.TVP_VOD?mode=playLiveTV&chCode=KHSH&chID=aid_72827367
 https://stream.4fun.tv:8888/hls/4f.m3u8
 #EXTINF:0,TV Trwam
 https://live-ch1.trwam.cf.insyscd.net/out/v1/b99041a282774d4a8fe84a54243af5de/trwamtv-live-ch1.mpd
+#EXTINF:0,Super Express TV
+https://s-pl-01.mediatool.tv/playout/sepl-abr/index.m3u8
+#EXTINF:0,EWTN Polska
+https://cdn3.wowza.com/1/ZHdrMWt1NjlDSzFu/bzdDVG10/hls/live/playlist.m3u8
+#EXTINF:0,Murator TV
+https://s-pl-01.mediatool.tv/playout/mupl-abr/index.m3u8
+#EXTINF:0,Poradnik Zdrowie TV
+https://s-pl-01.mediatool.tv/playout/pzpl-abr/index.m3u8
+#EXTINF:0,Eska Hity na Czasie
+https://s-pl-01.mediatool.tv/playout/espl-abr/index.m3u8
+#EXTINF:0,Eska Rock Dobrze Rockuje
+https://s-pl-01.mediatool.tv/playout/erpl-abr/index.m3u8
+#EXTINF:0,HiDance
+https://s-pl-01.mediatool.tv/playout/hdpl-abr/index.m3u8
+#EXTINF:0,HiMusic
+https://s-pl-01.mediatool.tv/playout/hmpl-abr/index.m3u8
+#EXTINF:0,Vox w Rytmie Hitów
+https://s-pl-01.mediatool.tv/playout/vxpl-abr/index.m3u8
 #EXTINF:0,TOYA TV
 https://cdn-1-go.toya.net.pl/live/hgfWgLh2UKx6pK29DBCiKA/1746365561/001_toyahd_hls/03.m3u8
 #EXTINF:0,tvregionalna.pl
