@@ -105,7 +105,7 @@ http://stream.tvkujawy.pl:8080/live/broadcast.m3u8
 http://gargoyle.tomkow.pl/hls/tvt.m3u8
 #EXTINF:0,TVT PL
 https://live.streamtvt.pl/LiveAppStreamTVT/streams/853271271313930867905724.m3u8
-#EXTINF:0,Imperium
+#EXTINF:0,TV Imperium
 https://91-193-208-10.eimperium.pl/TVIMPERIUM/index.m3u8
 #EXTINF:0,Sfera TV
 https://stream.sferatv.pl/sferatvlive/live.m3u8
