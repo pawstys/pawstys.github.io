@@ -111,8 +111,6 @@ https://s-pl-01.mediatool.tv/playout/hdpl-abr/index.m3u8
 https://s-pl-01.mediatool.tv/playout/hmpl-abr/index.m3u8
 #EXTINF:0,Vox w Rytmie Hitów
 https://s-pl-01.mediatool.tv/playout/vxpl-abr/index.m3u8
-#EXTINF:0,TOYA TV
-https://cdn-1-go.toya.net.pl/live/hgfWgLh2UKx6pK29DBCiKA/1747429432/001_toyahd_hls/03.m3u8
 #EXTINF:0,tvregionalna.pl
 https://tvreg.klemit.net/regionalna/stream/index.m3u8
 #EXTINF:0,TV Toruń
